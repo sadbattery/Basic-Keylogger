@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&customColorList=0,2,2,5,4,6,8,10,12,14,16,20,30&text=Basic%20Keylogger&fontSize=50&fontAlign=54&rotate=19&fontAlignY=45&textBg=false&animation=twinkling)
 
+<div><p align="left"> <img src="https://komarev.com/ghpvc/?username=sadbattery&label=PageViews:"/></p></div>
 A basic Python keylogger program that records keystrokes and saves them to a file using the `pynput library`
 
 
